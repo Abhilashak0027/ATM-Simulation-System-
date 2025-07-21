@@ -42,6 +42,11 @@ A simple command-line ATM system built with Python that allows users to securely
 2. Install colorama (if not already): pip install colorama
 3. Run the ATM: python Main.py
 
+## 📄 Sample Output
+
+Want to see how the project works before running it? Check out the sample output PDF below in the repo:
+
+👉 https://github.com/Abhilashak0027/ATM-Simulation-System-/blob/main/output.pdf
 
 
 
